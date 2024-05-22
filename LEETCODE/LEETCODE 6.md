@@ -14,7 +14,7 @@ formula is just (numRows-1)  times 2
 the inbetween rows will be the same, however for the edge cases like 
 L and I, or A and R in the 3rd row that are not captured.
 
-![[Pasted image 20240522114815.png]]  
+![](_attachments/Pasted%20image%2020240522123353.png)
 The formula will be 2* (NumRows -1) - 2* ( current row that is not first or last row)
 
 
